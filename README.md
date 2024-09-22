@@ -14,7 +14,7 @@
 # 1. Клонируйте репозиторий
 
 ```
-git clone https://github.com/hudhuud/E2E-test-.git
+git clone https://github.com/elenaludina0573/e2e_ui
 cd <директория_проекта>
 ```
 # 2. Виртуальное окружение
